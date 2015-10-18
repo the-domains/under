@@ -1,4 +1,4 @@
-name: null
+name: Under
 favicon: null
 layout_spectrum: 0.12055273540318012
 typography_spectrum: 0.8641010706778616
@@ -15,8 +15,13 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
-  brandStrength: 0.8934181374497712
+  brandColors:
+    - '#1d0578'
+    - '#100070'
+    - '#180078'
+    - '#1b0378'
+    - '#1b0379'
+  brandStrength: 1
   lightness: 0.7213102329988033
   saturation: 0.8920181805733591
   rhythmicContrast: 0.005622578086331487
